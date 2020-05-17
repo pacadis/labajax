@@ -1,0 +1,24 @@
+ul{
+	list-style-type: none;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 10px;
+}l
+
+#selectLeft{
+	position: absolute;
+	left: 35%;
+	display: inline;
+	text-align: center;
+}
+
+#selectRight{
+	position: absolute;
+	left: 45%;
+	display: inline;
+	text-align: center;
+}
+
+h2{
+	margin-bottom: 5px;
+}

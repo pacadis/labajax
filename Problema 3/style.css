@@ -1,0 +1,24 @@
+#form {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  padding: 10px;
+  border: 3px solid green;
+}
+
+#save {
+	color: transparent; 
+	background-color: transparent; 
+	border-color: transparent; 
+	cursor: default;
+}
+
+#all {
+	display: flex;
+	padding: 15px;
+}
+
+div {
+	padding: 15px;
+}
